@@ -6,7 +6,6 @@ import Experience from "./components/Experience"
 import Contact from "./components/Contact"
 import EndSection from "./components/EndSection"
 import "./App.css"
-import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export default function App() {
     return (
@@ -17,7 +16,6 @@ export default function App() {
             <Experience />
             <Contact />
             <EndSection />
-            <SpeedInsights />
         </main>
     );
 }

@@ -24,7 +24,7 @@ export default function EndSection() {
     GithubFetch()
     return (
         <div className="end-container">
-        <a href="https://github.com/Balionelis/moviefinder" target="_blank">
+        <a href="https://github.com/Balionelis" target="_blank">
             <h2 id="text">Designed & Built by Blijonas</h2>
             <div id="icons">
                 <img id="github-watch" src={watch} />
