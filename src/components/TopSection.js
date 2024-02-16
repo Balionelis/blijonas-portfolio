@@ -1,10 +1,10 @@
 import React from 'react';
-import './TopSection.css'
-import character from './images/Character.png'
-import line from './images/line.png'
-import instagram from './images/instagram-logo.png'
-import discord from './images/discord-icon.png'
-import github from './images/github-icon.png'
+import '../assets/TopSection.css'
+import character from '../assets/images/Character.png'
+import line from '../assets/images/line.png'
+import instagram from '../assets/images/instagram-logo.png'
+import discord from '../assets/images/discord-icon.png'
+import github from '../assets/images/github-icon.png'
 
 export default function TopSection() {
     return (

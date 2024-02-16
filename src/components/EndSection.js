@@ -1,7 +1,7 @@
 import React from 'react';
-import './EndSection.css'
-import fork from './images/github-fork.png'
-import watch from './images/github-watch.png'
+import '../assets/EndSection.css'
+import fork from '../assets/images/github-fork.png'
+import watch from '../assets/images/github-watch.png'
 
 function GithubFetch() {
     const apiUrl = 'https://api.github.com/repos/balionelis/moviefinder';

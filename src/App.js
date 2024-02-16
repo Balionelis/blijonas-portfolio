@@ -5,7 +5,7 @@ import AboutMe from "./components/AboutMe"
 import Experience from "./components/Experience"
 import Contact from "./components/Contact"
 import EndSection from "./components/EndSection"
-import "./App.css"
+import "./assets/App.css"
 
 export default function App() {
     return (

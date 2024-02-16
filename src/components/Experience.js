@@ -1,9 +1,9 @@
 import React from 'react';
-import './Experience.css'
-import line from './images/container-lines.png'
-import moviefinder from './images/moviefinder.png'
-import redirect from './images/share.png'
-import github from './images/github-icon.png'
+import '../assets/Experience.css'
+import line from '../assets/images/container-lines.png'
+import moviefinder from '../assets/images/moviefinder.png'
+import redirect from '../assets/images/share.png'
+import github from '../assets/images/github-icon.png'
 
 export default function Experience() {
     return (

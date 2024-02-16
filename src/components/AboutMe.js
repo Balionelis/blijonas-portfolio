@@ -1,7 +1,7 @@
 import React from 'react';
-import './AboutMe.css'
-import hex from './images/Aboutme-hex.png'
-import line from './images/container-lines.png'
+import '../assets/AboutMe.css'
+import hex from '../assets/images/Aboutme-hex.png'
+import line from '../assets/images/container-lines.png'
 
 export default function AboutMe() {
     return (

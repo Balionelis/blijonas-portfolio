@@ -1,6 +1,6 @@
 import React from "react";
-import "./header.css";
-import hex from './images/B-Hexagonn.png'
+import "../assets/header.css";
+import hex from '../assets/images/B-Hexagonn.png'
 
 export default function Header() {
     return (
