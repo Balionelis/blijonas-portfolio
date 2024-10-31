@@ -24,7 +24,7 @@ export default function TopSection() {
             <img id="right-line-img" src={line} />
             <h1 id="right-email">blijonasq@gmail.com</h1>
             <a href="https://github.com/Balionelis" target="_blank"><img id="github-img" src={github} /></a>
-            <a href="https://www.instagram.com/visvaldasva/" target="_blank"><img id="instagram-img" src={instagram} /></a>
+            <a href="https://www.instagram.com/" target="_blank"><img id="instagram-img" src={instagram} /></a>
             <a href="" target="_blank"><img id="discord-img" src={discord} /></a>
         </div>
     );
